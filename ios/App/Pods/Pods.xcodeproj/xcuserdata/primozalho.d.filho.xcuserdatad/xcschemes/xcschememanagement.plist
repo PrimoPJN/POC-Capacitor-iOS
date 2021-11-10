@@ -4,28 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Capacitor.xcscheme_^#shared#^_</key>
+		<key>Capacitor.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>CapacitorCamera.xcscheme_^#shared#^_</key>
+		<key>CapacitorCamera.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>CapacitorCordova.xcscheme_^#shared#^_</key>
+		<key>CapacitorCordova.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>Pods-App.xcscheme_^#shared#^_</key>
+		<key>Pods-App.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
