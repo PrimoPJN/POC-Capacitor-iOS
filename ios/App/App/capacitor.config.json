@@ -1,0 +1,7 @@
+{
+	"appId": "com.poc.capacitorjs",
+	"appName": "POC CapacitorJS",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"loggingBehavior": "debug"
+}
